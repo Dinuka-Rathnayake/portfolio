@@ -91,6 +91,7 @@ class Projects extends Component {
             return <PublicationCard pub={pub} theme={theme} />;
           })}
         </div> */}
+        {/* check */}
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
