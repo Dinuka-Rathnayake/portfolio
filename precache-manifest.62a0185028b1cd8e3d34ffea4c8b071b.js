@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "991f5854c7d6bc2fc805111e8443e3ab",
+    "revision": "ada326948461b90f48e6654108426ca7",
     "url": "./index.html"
   },
   {
-    "revision": "5f5aa3afdfadff7ff07c",
+    "revision": "6e980b190a56cb72a66a",
     "url": "./static/css/main.ba2357d5.chunk.css"
   },
   {
-    "revision": "b520e36426d952add271",
-    "url": "./static/js/2.494ebfcb.chunk.js"
+    "revision": "c8d16ea62ff81f691356",
+    "url": "./static/js/2.21654fa4.chunk.js"
   },
   {
-    "revision": "5f5aa3afdfadff7ff07c",
-    "url": "./static/js/main.c4625ea6.chunk.js"
+    "revision": "6e980b190a56cb72a66a",
+    "url": "./static/js/main.fda51387.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "84dbcc3558327ac5fa1b7420dff3cf71",
+    "url": "./static/media/Dinuka-Rathnayake-Python.84dbcc35.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -206,6 +210,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
     "url": "./static/media/iu_logo.60ed0bd3.png"
+  },
+  {
+    "revision": "59c62b61fa6fe2d76467dead55b308a5",
+    "url": "./static/media/java.59c62b61.jpg"
   },
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",

@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.ba2357d5.chunk.css",
-    "main.js": "./static/js/main.c4625ea6.chunk.js",
-    "main.js.map": "./static/js/main.c4625ea6.chunk.js.map",
+    "main.js": "./static/js/main.fda51387.chunk.js",
+    "main.js.map": "./static/js/main.fda51387.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.494ebfcb.chunk.js": "./static/js/2.494ebfcb.chunk.js",
-    "static/js/2.494ebfcb.chunk.js.map": "./static/js/2.494ebfcb.chunk.js.map",
+    "static/js/2.21654fa4.chunk.js": "./static/js/2.21654fa4.chunk.js",
+    "static/js/2.21654fa4.chunk.js.map": "./static/js/2.21654fa4.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d83a7e29d4316f28f15e1e975670a58a.js": "./precache-manifest.d83a7e29d4316f28f15e1e975670a58a.js",
+    "precache-manifest.62a0185028b1cd8e3d34ffea4c8b071b.js": "./precache-manifest.62a0185028b1cd8e3d34ffea4c8b071b.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.ba2357d5.chunk.css.map": "./static/css/main.ba2357d5.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Dinuka-Rathnayake-Python.png": "./static/media/Dinuka-Rathnayake-Python.84dbcc35.png",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_dinuka.png": "./static/media/animated_dinuka.f0017158.png",
@@ -37,6 +38,7 @@
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "./static/media/intel_logo.29152cf7.jpg",
     "static/media/iu_logo.png": "./static/media/iu_logo.60ed0bd3.png",
+    "static/media/java.jpg": "./static/media/java.59c62b61.jpg",
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
@@ -55,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.494ebfcb.chunk.js",
+    "static/js/2.21654fa4.chunk.js",
     "static/css/main.ba2357d5.chunk.css",
-    "static/js/main.c4625ea6.chunk.js"
+    "static/js/main.fda51387.chunk.js"
   ]
 }
