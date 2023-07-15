@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/drive/folders/1huHtsQQ1sJdwKPoRayhcxOr942B55lft?usp=drive_link",
+    "https://drive.google.com/file/d/1z2ceyFi9BFUUAOwFUzP_ReWjMKd5KihW/view?usp=sharing",
   portfolio_repository:
     "https://github.com/Dinuka-Rathnayake/Dinuka-Rathnayake.github.io",
   githubProfile: "https://github.com/Dinuka-Rathnayake",
@@ -335,14 +335,14 @@ const competitiveSites = {
     //   },
     //   profileLink: "https://leetcode.com/layman_brother/",
     // },
-    // {
-    //   siteName: "HackerRank",
-    //   iconifyClassname: "simple-icons:hackerrank",
-    //   style: {
-    //     color: "#2EC866",
-    //   },
-    //   profileLink: "https://www.hackerrank.com/layman_brother",
-    // },
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/dinuka_maveesara?hr_r=1",
+    },
     // {
     //   siteName: "Codechef",
     //   iconifyClassname: "simple-icons:codechef",
@@ -416,15 +416,25 @@ const alevel = {
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "Machine Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "stanford_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-    //   alt_name: "Stanford University",
-    //   color_code: "#8C151599",
-    // },
+    {
+      title: "Python",
+      subtitle: "- kaggle",
+      logo_path: "kaggle.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1WLzn1HOrGkiRVLcmp2cr0ztyV3TkeTb0/view?usp=sharing",
+      alt_name: "Kaggle",
+      color_code: "#8C151599",
+    },
+
+    {
+      title: "Java Intermediate",
+      subtitle: "- sololearn",
+      logo_path: "java.jpg",
+      certificate_link:
+        "https://www.sololearn.com/certificates/CC-YUHINIHP",
+      alt_name: "Kaggle",
+      color_code: "#8C151599",
+    },
 
   ],
 };
