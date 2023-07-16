@@ -24,4 +24,4 @@
 
 </br>
 <h2> Live Preview -->   </h2> 
-<a href="https://dinuka-rathnayake.github.io/portfolio/#/"></a>
+<a href="https://dinuka-rathnayake.github.io/portfolio/#/">https://dinuka-rathnayake.github.io/portfolio/#/</a>
