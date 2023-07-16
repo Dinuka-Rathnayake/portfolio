@@ -26,10 +26,16 @@
 <h2> Live Preview -->  <a href="https://dinuka-rathnayake.github.io/portfolio/#/">https://dinuka-rathnayake.github.io/portfolio/#/</a> </h2> 
 
 </br>
-<h2>Screenshots</h2> </br>
+<h2>Screenshots -->  </h2> </br>
 <p align="center"> 
     <a href="https://dinuka-rathnayake.github.io/portfolio/#/" target="_blank">
     <img src="images/landing-page.png"></img>
   </a>
 </p>
 
+</br>
+<p align="center"> 
+    <a href="https://dinuka-rathnayake.github.io/portfolio/#/" target="_blank">
+    <img src="images/contact-page.png"></img>
+  </a>
+</p>
