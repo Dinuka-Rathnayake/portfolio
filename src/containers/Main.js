@@ -10,20 +10,27 @@ import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
 
+import Header from "../components/header/Header";
+
 export default class Main extends Component {
   render() {
     if (settings.isSplash) {
       return (
         <div>
+          
           <HashRouter basename="/">
             <Switch>
+
+              
               <Route
                 path="/"
                 exact
                 render={(props) => (
                   <Splash {...props} theme={this.props.theme} />
                 )}
+                
               />
+              
               <Route
                 path="/home"
                 render={(props) => <Home {...props} theme={this.props.theme} />}

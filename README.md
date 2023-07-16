@@ -22,3 +22,6 @@
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
 
+</br>
+<h2> Live Preview -->   </h2> 
+<a href="https://dinuka-rathnayake.github.io/portfolio/#/"></a>
