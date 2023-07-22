@@ -23,7 +23,7 @@
 </p>
 
 
-<h2> Technology -->  Mern Stack </h4> 
+<h2> Technology --> React JS </h4> 
 
 <h2>Deploye Tools -->  Docker, github pages </h2> 
 
