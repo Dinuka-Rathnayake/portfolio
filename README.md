@@ -25,7 +25,7 @@
 
 <h2> Technology -->  Mern Stack </h4> 
 
-<h2> Tools -->  docker, github pages </h4> 
+<h2>Deploye Tools -->  Docker, github pages </h2> 
 
 
 <h2> Live Preview -->  <a href="https://dinuka-rathnayake.github.io/portfolio/#/">https://dinuka-rathnayake.github.io/portfolio/#/</a> </h2> 
