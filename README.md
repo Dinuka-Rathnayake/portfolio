@@ -22,12 +22,12 @@
   <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
 </p>
 
-</br>
+
 <h2> Technology -->  Mern Stack </h4> 
-</br>
+
 <h2> Tools -->  docker, github pages </h4> 
 
-</br>
+
 <h2> Live Preview -->  <a href="https://dinuka-rathnayake.github.io/portfolio/#/">https://dinuka-rathnayake.github.io/portfolio/#/</a> </h2> 
 
 </br>
